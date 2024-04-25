@@ -1,0 +1,162 @@
+{
+  "main": {
+    "id": "71d1faf515a627be",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f8ce8741ada3c6b",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ea9364d52e0f4e18",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "docs/sureau/multilayersoil/todo.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "4d10ad0c5c4d0327",
+    "type": "split",
+    "children": [
+      {
+        "id": "cf1de2b456277e84",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "202c07f845624768",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8468c1e8a044ee30",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "4399ff325f4e0fe3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "8dc6d9f11d46333a",
+    "type": "split",
+    "children": [
+      {
+        "id": "63f00c30302a3060",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "d5e4ae3826d20d76",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "docs/sureau/multilayersoil/todo.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "e28ddf7e59b96d04",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "docs/sureau/multilayersoil/todo.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "b791afac59da46b8",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "2ac227602c450710",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "docs/sureau/multilayersoil/todo.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "ea9364d52e0f4e18",
+  "lastOpenFiles": [
+    "docs/index.md",
+    "README.md",
+    "test/list.md",
+    "sureau/multilayersoil/todo.md",
+    "sureau/multilayersoil",
+    "sureau",
+    "test/create a link.md",
+    "test/link somewhere else2.md",
+    "test/README.md",
+    "test/Welcome.md",
+    "test"
+  ]
+}
